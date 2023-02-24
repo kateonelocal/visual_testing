@@ -1,0 +1,25 @@
+{
+  "name": "visual_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kateonelocal/visual_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kateonelocal/visual_testing/issues"
+  },
+  "homepage": "https://github.com/kateonelocal/visual_testing#readme",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  }
+}
